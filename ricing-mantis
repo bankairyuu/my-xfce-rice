@@ -1,0 +1,4 @@
+mkdir ~/.themes
+git clone https://github.com/mantissa-/mantis-theme.git ~/.themes/
+
+
